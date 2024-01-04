@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: beige;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.picture img{
+    border-bottom-left-radius: 5%;
+    border-top-left-radius: 5%;
+    height: 50vh;
+}
+
+.abt {
+    background-color: white;
+    height: 50vh;
+    width: 15vw;
+    border-bottom-right-radius: 5%;
+    border-top-right-radius: 5%;
+    padding: 5px;
+}
+
+.add2cart {
+    background-color: rgb(41, 106, 41);
+}

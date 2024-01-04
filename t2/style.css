@@ -1,0 +1,33 @@
+body {
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body h1 {color: yellow;}
+
+.box {
+    padding: 20px;
+    background-color: white;
+    border-radius: 5%;
+    height: 80vh;
+    width: 30vw;
+}
+
+.button {
+    background-color: yellow;
+    width: 7vw;
+}
+
+.pic1 {
+    text-align: center;
+}
+
+.profile {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
